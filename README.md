@@ -51,13 +51,13 @@ Make sure you have **Python**, **MongoDB** (running locally or via Atlas), and *
 3. **Create and activate a virtual environment:**
    ```bash
    python -m venv venv
-  # On Windows:
- ```bash
-  venv\Scripts\activate
-  
-  # On Mac/Linux:
-  source venv/bin/activate
-```
+   
+   # on Windows
+   venv\Scripts\activate
+
+   # On Mac/Linux:
+   source venv/bin/activate
+   
 4.**Install the required dependencies:**
   ```bash
     pip install django pymongo requests beautifulsoup4 pytesseract Pillow
