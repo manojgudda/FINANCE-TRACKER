@@ -26,9 +26,3 @@ A premium, comprehensive personal finance and analytics dashboard. Built as a fl
 ### Prerequisites
 Make sure you have Python and MongoDB installed on your system. You will also need Tesseract-OCR installed on your machine if you wish to use the AI Receipt Scanning feature.
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/FinanceOS.git](https://github.com/YOUR_USERNAME/FinanceOS.git)
-   cd FinanceOS
