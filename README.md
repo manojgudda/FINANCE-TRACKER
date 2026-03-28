@@ -67,5 +67,4 @@ Make sure you have **Python**, **MongoDB** (running locally or via Atlas), and *
   python manage.py runserver
 ```
 ***
-
-Once you commit this, your GitHub page is going to look like it belongs to a senior developer. The shields/badges at the top will automatically render as cool little graphics, and the formatting will be crisp and professional!
+GitHub: @manojgudda !
